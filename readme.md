@@ -10,4 +10,6 @@
 ## Sobre mi
 
 - 💻​Full Stack Web Developer💻​
-- <br>
+- 📈Te ayudo a construir una solución tecnológica📈
+- 🚀Mucho mas que el Stack MERN🚀
+  <br>
